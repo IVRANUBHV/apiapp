@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   const sendApiCall = () => {
-    console.log("MADE API CALL");
+    console.log("MADE API CALL2");
   }
   return (
     <div className="App">
